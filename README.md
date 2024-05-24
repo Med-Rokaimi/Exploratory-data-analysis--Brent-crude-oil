@@ -1,1 +1,5 @@
-This dataset spans the period from 2012 to 2021 and includes the following columns: Date, Brent close price (Price), USDX price index (USD), Saudi energy sector index (Energy), and sentiment analysis scores (Sentimen). The data for the Brent close price, USDX price index, and Saudi energy sector index were collected from Investing.com. The sentiment analysis scores were obtained from the Crude Oil Sentiment 2022 Dataset.
+This dataset spans the period from 2012 to 2021 and includes the following columns: Date, Brent close price (Price), USDX price index (USD), Saudi energy sector index (Energy), and sentiment analysis scores (Sentimen). The data for the Brent close price, USDX price index, and Saudi energy sector index were collected from Investing.com.  https://www.investing.com
+The sentiment analysis scores were obtained from the Crude Oil Sentiment 2022 Dataset.
+https://github.com/fhgr/crudeoil-sentiment2022-dataset
+
+
