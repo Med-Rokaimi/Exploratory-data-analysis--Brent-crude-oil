@@ -11,6 +11,9 @@ Notebooks:
    - Conducted time series decomposition;
    - Performed the Spearman correlation test.
 
+For more details and tutorial, follow my articles on Meduim:
+https://medium.com/@m.alruqimi/crude-brent-oil-from-analysis-to-forecasting-python-and-pytorch-code-part1-1-eb3ae38664db
+
 Data sets:
 1. oil.xlsx: a clean dataset spans the period from 2012 to 2021 and includes the following columns: Date, Brent close price (Price), USDX price index (USD), Saudi energy sector index (Energy), and sentiment analysis scores (Sentimen). The data for the Brent close price, USDX price index, and Saudi energy sector index were collected from Investing.com.  https://www.investing.com
 The sentiment analysis scores were obtained from the Crude Oil Sentiment 2022 Dataset.
